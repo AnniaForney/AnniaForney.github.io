@@ -1,11 +1,11 @@
 # Site settings
-author: Annia Forney
-title: 
+author: Annia Forney 
+title: FlatIron Student Blog
 header-img: img/home-bg.png
 email: anniaforney@gmail.com
-copyright_name: Annia Forney
+copyright_name: Annia Forney 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Project Blog Posts 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AnniaForney
